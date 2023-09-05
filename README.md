@@ -1,1 +1,1 @@
-# connect-four-bits
+# Connect4-AI
